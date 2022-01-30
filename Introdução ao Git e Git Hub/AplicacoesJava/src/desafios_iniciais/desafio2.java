@@ -11,7 +11,6 @@ public class desafio2 {
     		if (  i % N == 2 ) System.out.println( i );
     	}
 	}
-//Complete com a sua lógica nos espaços em branco	
 }
 
 
