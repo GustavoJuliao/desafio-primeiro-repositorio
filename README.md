@@ -1,16 +1,13 @@
 # Apresentação
-👋 Olá, sou estudante de informática e entusiasta de Segurança da Informação.
-🌱 Aprendendo python e java.    
-😄 Esta é minha primeira participação no GitHub para o desafio de repositório.    
+👋 Olá, sou estudante de ciência da computação, estudando bastante linguagem java, python, javascript e entusiasta de Segurança da Informação.
+🌱 Atualmente aprendendo java.    
 📫 Me contate: [Twitter](https://twitter.com/banjuliao) / [Linkedin](https://www.linkedin.com/in/gustavo-s-juliao-11s/)    
-⚡️ Curiosidade: sou fã de Pokémon e Yu Gi Oh, adoro andar de bike.   
+⚡️ Curiosidade: sou fã de Pokémon e Yu Gi Oh, e torcedor do Manchester United.   
 
-# Repositório do Desafio de Projeto sobre Git/GitHub
-Desafio de projeto sobre Git/GitHub
-
-## Links Úteis
-[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)  
-[Site de Badges para GitHub](https://dev.to/envoy_/150-badges-for-github-pnk)   
-[Site para emojis GitHub](https://emojipedia.org/search/?q=bag)
-    
+   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoJuliao&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+**Linguagens de Programação**
+
+<img title="Python" alt="Python" width="80px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />|<img alt="JS" title="JavaScript" width="80px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">|<img alt="JAVA" title="Java" width="70px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+|--|--|--|
